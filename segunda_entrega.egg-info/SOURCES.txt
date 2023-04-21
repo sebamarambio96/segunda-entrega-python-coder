@@ -1,6 +1,8 @@
 setup.py
-paquetes/__init__.py
-paquetes/funciones_matematicas.py
+primera_entrega/__init__.py
+primera_entrega/login.py
+segunda_entrega/__init__.py
+segunda_entrega/tienda.py
 segunda_entrega.egg-info/PKG-INFO
 segunda_entrega.egg-info/SOURCES.txt
 segunda_entrega.egg-info/dependency_links.txt
