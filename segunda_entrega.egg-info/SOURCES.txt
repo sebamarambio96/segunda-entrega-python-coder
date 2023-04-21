@@ -1,0 +1,7 @@
+setup.py
+paquetes/__init__.py
+paquetes/funciones_matematicas.py
+segunda_entrega.egg-info/PKG-INFO
+segunda_entrega.egg-info/SOURCES.txt
+segunda_entrega.egg-info/dependency_links.txt
+segunda_entrega.egg-info/top_level.txt
